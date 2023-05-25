@@ -1,4 +1,4 @@
-.fluid{
+.container-fluid{
     display: flex;
     flex-direction: column;
 }
